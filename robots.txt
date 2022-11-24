@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cmpi66.github.io/sitemap.xml
