@@ -1,0 +1,14 @@
+main:
+  - name: Home
+    identifier: home
+    url: https://cmpi4.com/
+    params:
+      icon: '<i class="fas fa-fw fa-home"></i>'
+      weight: 1
+
+  - name: Blog
+    identifier: blog
+    params:
+      icon: '<i class="fas fa-fw fa-blog text-warning"></i>'
+      weight: 2
+      description: 'Blog Menu Description'
